@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aula2</string>
+    <string name="texto">Oi Mundo!</string>
+    <string name="btn_trocar">Trocar Activity</string>
+</resources>
